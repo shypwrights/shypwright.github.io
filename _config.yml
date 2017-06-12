@@ -1,0 +1,58 @@
+url: https://shypwright.github.io
+#baseurl: /shypwright
+
+# Site settings
+title: Shypwright
+email: shypwright@gmail.com
+description: "Shypwright software house, implementation of your ideas through to production"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 1de8da
+  secondary: 44d4ca
+  secondary-dark: 333
+
+# Team names, titles and social links
+people:
+- name: Vinay Malkani
+  pic: 1
+  position: Lead Architect, Electrical Engineer
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/vinay-malkani-6338609/
+
+- name: Monikka "Kiki" de la Zerda
+  pic: 2
+  position: Lead Developer, Computer Scientist
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/mdelazerda/
+
+- name: Bo Stauffer-Olsen
+  pic: 3
+  position: Lead Developer, High Energy Physicist
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/bo-bo-15b31a31/
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+#social:
+#  - title: twitter
+#    url: http://twitter.com/jekyllrb
+#  - title: facebook
+#    url:
+#  - title: stack-overflow
+#    url: http://stackoverflow.com/questions/tagged/jekyll
+#  - title: bitbucket
+#    url: http://bitbucket.org/jekyll
+#  - title: github
+#    url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+#address:
+#  - line: 935 Liberty Rd.
+#  - line: Petaluma, CA 94952
+
+# Build settings
+markdown: kramdown
+permalink: pretty
