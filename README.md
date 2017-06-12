@@ -1,6 +1,8 @@
 Shypwright Website
 =============
 
+# How to use
+
 To build docker container:
 ```make build```
 
@@ -21,17 +23,14 @@ Furthermore, the _config.yml file needs to be updated properly:
 ```url: https://<name>/<name>.github.io```
 
 Once _config.yml is updated, you must rebuild the site
-```make restart```
+```make restart``` and checkin the changes to the repo.
 
 To see this website in action:
 https://shypwrights.github.io
 
-Jekyll Notes
-====================
+# Jekyll Notes
 
 Agency theme based on [Agency bootstrap theme ](http://startbootstrap.com/templates/agency/)
-
-# How to use
 
 ### Portfolio 
 
@@ -49,8 +48,7 @@ Team members and info are in '_config.yml'
 
 Images are in '/img/team/'
 
-
-# Demo
+## Demo
 
 View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
 For more details, read [documentation](http://jekyllrb.com/)
