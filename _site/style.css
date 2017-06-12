@@ -183,7 +183,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Brush Script MT","Helvetica Neue",Helvetica,Arial,cursive;
+    font-family: cursive,"Helvetica Neue",Helvetica,Arial,cursive;
     color: #1de8da;
 }
 
