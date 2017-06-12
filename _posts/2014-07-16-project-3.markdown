@@ -4,8 +4,8 @@ subtitle: Sunny 3 bedroom
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: petaluma_house_4.jpg
-thumbnail: petaluma_house_4_thumbnail.jpg
+//img: petaluma_house_4.jpg
+//thumbnail: petaluma_house_4_thumbnail.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
