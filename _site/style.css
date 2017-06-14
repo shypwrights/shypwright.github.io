@@ -296,7 +296,7 @@ header .intro-text .intro-lead-in {
 }
 
 header .intro-text .intro-heading {
-    margin-bottom: 25px;
+    margin-bottom: 10px;
     text-transform: uppercase;
     font-family: Beirut,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 50px;
@@ -311,7 +311,7 @@ header .intro-text .intro-heading {
     }
 
     header .intro-text .intro-lead-in {
-        margin-bottom: 25px;
+        margin-bottom: 50px;
         font-family: "Times New Roman","Helvetica Neue",Helvetica,Arial,sans-serif;
         font-size: 40px;
         font-style: italic;
@@ -319,7 +319,7 @@ header .intro-text .intro-heading {
     }
 
     header .intro-text .intro-heading {
-        margin-bottom: 50px;
+        margin-bottom: 10px;
         text-transform: uppercase;
         font-family: Beirut,"Helvetica Neue",Helvetica,Arial,sans-serif;
         font-size: 75px;
