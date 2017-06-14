@@ -16,21 +16,21 @@ color:
 people:
 - name: Vinay Malkani
   pic: 1
-  position: Lead Architect, Electrical Engineer
+  position: President, Lead Architect & Co-Founder
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/vinay-malkani-6338609/
 
 - name: Monikka "Kiki" de la Zerda
   pic: 2
-  position: Lead Developer, Computer Scientist
+  position: Lead Developer & Co-Founder 
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/mdelazerda/
 
 - name: Bo Stauffer-Olsen
   pic: 3
-  position: Lead Developer, High Energy Physicist
+  position: Lead Developer & Co-Founder
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/bo-bo-15b31a31/
