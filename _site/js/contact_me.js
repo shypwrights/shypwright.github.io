@@ -18,9 +18,8 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "https://formspree.io/contact+fs@shypwright.com",
+                url: "././mail/contact_me.php",
                 type: "POST",
-		dataType: "json",
                 data: {
                     name: name,
                     phone: phone,
